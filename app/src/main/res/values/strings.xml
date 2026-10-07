@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EUNL Widget</string>
+    <string name="channel_name">EUNL price updates</string>
+    <string name="channel_description">Background EUNL price updates for the home-screen widget.</string>
+</resources>
